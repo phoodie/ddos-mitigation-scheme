@@ -1,4 +1,4 @@
-#server code scheme by Phong ID 206163
+#server code scheme by Phong 
 import time, os, sys, string, threading, math
 from socket import *  #importing the socket library for network connections
 
