@@ -1,4 +1,4 @@
-#Botnet based DDoS EE 209-MASTER by Phong, ID 206163
+#Botnet based DDoS EE 209-MASTER by Phong
 
 import time, datetime, sys, re,ntplib
 from socket import *  #importing the socket library for network connections
