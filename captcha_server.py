@@ -1,5 +1,5 @@
 
-#server code mitigation with CAPTCHA by Phong, ID 206163
+#server code mitigation with CAPTCHA by Phong
 
 import time, os, sys, string, threading, math, random
 from socket import *  #importing the socket library for network connections
