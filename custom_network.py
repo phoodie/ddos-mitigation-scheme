@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Mininet network topology by by Phong, ID 206163
+#Mininet network topology by by Phong,
 #controller plane
 
 from mininet.net import Mininet
