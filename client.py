@@ -1,5 +1,5 @@
 ##Client code for DDoS simulation
-# by Phong ID 206163
+# by Phong
 
 import sys
 from socket import * 
