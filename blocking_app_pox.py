@@ -1,5 +1,5 @@
 
-##Blocking Application Ddos by Phong, ID 206163
+##Blocking Application Ddos by Phong
 
 from pox.core import core
 import pox.openflow.libopenflow_01 as of
